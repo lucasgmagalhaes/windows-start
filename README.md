@@ -39,3 +39,16 @@ Repo to remind me which tools should I install after format my pc.
 * [x] [Angular Component Extension](https://marketplace.visualstudio.com/items?itemName=onixie.angular-component-extension)
 * [x] [Angular Console](https://marketplace.visualstudio.com/items?itemName=onixie.angular-component-extension)
 * [x] [Debug for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+### Using Chocolatey
+
+```powershell
+# It's more eady than download manually 
+
+choco install dotnetcore-sdk
+choco install googlechrome
+choco install adobereader     
+choco install notepadplusplus.install
+choco install winrar
+choco install nodejs.install
+```
