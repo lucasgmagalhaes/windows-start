@@ -40,6 +40,41 @@ Repo to remind me which tools should I install after format my pc.
 * [x] [Angular Console](https://marketplace.visualstudio.com/items?itemName=onixie.angular-component-extension)
 * [x] [Debug for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
+### Extensions
+
+* akamud.vscode-theme-onedark
+* Angular.ng-template
+* christian-kohler.npm-intellisense
+* cssho.vscode-svgviewer
+* Dart-Code.dart-code
+* Dart-Code.flutter
+* dbaeumer.jshint
+* dbaeumer.vscode-eslint
+* donjayamanne.jquerysnippets
+* DotJoshJohnson.xml
+* dracula-theme.theme-dracula
+* ecmel.vscode-html-css
+* EditorConfig.EditorConfig
+* esbenp.prettier-vscode
+* formulahendry.code-runner
+* hbenl.vscode-jasmine-test-adapter
+* hbenl.vscode-test-explorer
+* johnpapa.Angular2
+* kisstkondoros.typelens
+* Mikael.Angular-BeastCode
+* mikestead.dotenv
+* mrmlnc.vscode-scss
+* ms-python.python
+* ms-vscode.csharp
+* msjsdiag.debugger-for-chrome
+* msjsdiag.debugger-for-edge
+* nrwl.angular-console
+* onixie.angular-component-extension
+* PKief.material-icon-theme
+* rebornix.project-snippets
+* redhat.vscode-xml
+* Zignd.html-css-class-completion
+
 ### Using Chocolatey
 
 ```powershell
