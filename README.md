@@ -86,4 +86,5 @@ choco install adobereader
 choco install notepadplusplus.install
 choco install winrar
 choco install nodejs.install
+# (Also enable Global confirmation to make things easier: choco feature -n allowGlobalConfirmation)
 ```
