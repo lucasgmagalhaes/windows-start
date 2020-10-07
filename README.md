@@ -1,6 +1,6 @@
-# cool-dev
+# windows-start
 
-Repo to remind me which tools should I install after format my pc.
+Repo to remind me which tools should I install on my windows after format my computer.
 
 ## IDE'S
 
