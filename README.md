@@ -32,7 +32,7 @@ Repo to remind me which tools should I install after format my pc.
 
 * [x] [Dracula Theme](https://draculatheme.com/visual-studio/)
 
-## For Visual Studio
+## For Visual Studio Code
 
 * [x] [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 * [x] [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
