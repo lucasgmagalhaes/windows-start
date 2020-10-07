@@ -13,7 +13,8 @@ Repo to remind me which tools should I install after format my pc.
 * [x] [GitBash](https://gitforwindows.org/)
 * [x] [Chocolatey](https://chocolatey.org/)
 * [x] [Github Desktop](https://desktop.github.com/)
-* [x] [Postman](https://www.getpostman.com/) (or should I use [Insomnia](https://insomnia.rest/download/) ?)
+* [x] [Postman](https://www.getpostman.com/)
+  * [ ] [Insomnia](https://insomnia.rest/download/) is a also a great alternative
 * [x] [Yarn](https://yarnpkg.com/lang/en/)
 * [x] [Docker](https://docs.docker.com/docker-for-windows/)
 
